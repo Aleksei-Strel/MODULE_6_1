@@ -53,10 +53,10 @@ class Fruit(Plant):
     edible = True
 
 
-animal1 = Predator('Tiger')
+animal1 = Predator('Puma')
 animal2 = Mammal('Horse')
-plant1 = Plant('Cucumber')
-plant2 = Fruit('Orange')
+plant1 = Plant('Mushroom')
+plant2 = Fruit('Cucumber')
 
 print(animal1.name)
 print(plant1.name)
